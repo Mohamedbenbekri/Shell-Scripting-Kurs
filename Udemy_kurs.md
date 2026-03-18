@@ -28,7 +28,7 @@ Variable :
 MY_SHELL=”bash”
 echo”I like $MY_SHELL shell “
 
-#### Man kann auch ein Command als Variable nehmen 
+### Man kann auch ein Command als Variable nehmen 
 Server_Name =$(hostname)
 echo "you are running this script on ${Server_NAME}."
 
